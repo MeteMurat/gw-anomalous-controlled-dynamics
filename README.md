@@ -63,3 +63,11 @@ versions, not the current publication text. Hashes, original filenames and
 operational ledgers belong to these reproducibility records, not the paper's
 physics narrative. No new license grant is asserted; pre-existing third-party
 notices and source identities are retained.
+
+## Manuscript corrections
+
+The complete code, original model weights and numerical inputs are retained in
+release v1.0.0. The v1.0.1 manuscript-only patch repairs internal cross-references
+without changing any numerical result, threshold, equation or figure. The latest
+source is `manuscript/manuscript.md`. Later manuscript corrections reuse the
+complete v1.0.0 archive rather than replacing it.

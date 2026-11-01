@@ -1,0 +1,39 @@
+{
+  "status": "CROSS_REFERENCES_CORRECTED_WITHOUT_NUMERICAL_CHANGE",
+  "source_sha256": "11745B555504FBC7EAA01473C1813592A05D8CFC81457CC548A380A126E10BAD",
+  "changes": [
+    {
+      "old": "Table <a href=\"#tab:experiment_sequence\" data-reference-type=\"ref\" data-reference=\"tab:experiment_sequence\">1</a>",
+      "new": "The experiment summary below"
+    },
+    {
+      "old": "Table <a href=\"#tab:p4actual\" data-reference-type=\"ref\" data-reference=\"tab:p4actual\">5</a>",
+      "new": "The broad-lag summary below"
+    },
+    {
+      "old": "Section <a href=\"#app:f6_family_scores\" data-reference-type=\"ref\" data-reference=\"app:f6_family_scores\">8.5</a>",
+      "new": "the supplementary section entitled “Controlled-benchmark family and nominal-amplitude summaries”"
+    },
+    {
+      "old": "the paired net response in Eq. <a href=\"#eq:paired_lift\" data-reference-type=\"eqref\" data-reference=\"eq:paired_lift\">[eq:paired_lift]</a>",
+      "new": "the paired net upward-crossing fraction defined above"
+    },
+    {
+      "old": "Table <a href=\"#tab:f6_nominal_scores\" data-reference-type=\"ref\" data-reference=\"tab:f6_nominal_scores\">3</a>",
+      "new": "The controlled-benchmark family–amplitude summary below"
+    },
+    {
+      "old": "Table <a href=\"#tab:fresh6_all_blocks\" data-reference-type=\"ref\" data-reference=\"tab:fresh6_all_blocks\">4</a>",
+      "new": "The six-block validation summary below"
+    },
+    {
+      "old": "The release associated with this manuscript contains the current paper, figure-generation inputs, numerical results and the three original fitted neural models.",
+      "new": "Versioned releases provide the current paper, figure-generation inputs, numerical results and the three original fitted neural models; manuscript-only corrections are released separately from the complete reproducibility archive."
+    }
+  ],
+  "display_equations_byte_identical": 50,
+  "figure_occurrences_identical": 17,
+  "correct_Figure_3_reference_retained": true,
+  "registered_thresholds_or_results_changed": false,
+  "new_strain_or_neural_calls": 0
+}
