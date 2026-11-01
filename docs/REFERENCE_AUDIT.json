@@ -1,0 +1,399 @@
+{
+  "status": "PASS_THIRTY_EXISTING_PRIMARY_REFERENCES_AND_CITATION_SCOPE",
+  "as_of": "2026-11-01",
+  "references": [
+    {
+      "id": "Jaranowski1998",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Jaranowski, Piotr, Andrzej Królak, and Bernard F. Schutz. 1998. “Data analysis of gravitational-wave signals from spinning neutron stars. I. The signal and its detection.” *Physical Review D* 58: 063001. <https://doi.org/10.1103/PhysRevD.58.063001>.",
+      "verified_primary_url": "https://arxiv.org/abs/gr-qc/9804014",
+      "web_ref": "turn292view0",
+      "supported_claim": "Unknown-phase linear quadrature likelihood and Gaussian detection distributions are established. Continuous-wave source model is not equated with our transient.",
+      "metadata_note": "Metadata and attribution supported.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Biswas2009",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Biswas, Rahul, Patrick R. Brady, Jolien D. E. Creighton, and Stephen Fairhurst. 2009. “The loudest event statistic: general formulation, properties and applications.” *Classical and Quantum Gravity* 26: 175009. <https://doi.org/10.1088/0264-9381/26/17/175009>.",
+      "verified_primary_url": "https://dcc.ligo.org/LIGO-P070076/public",
+      "web_ref": "turn300view3",
+      "supported_claim": "Prior art for inference based on loudest event; manuscript does not use its Poisson rate formula for its phase endpoint.",
+      "metadata_note": "Original4authors verified from originalDCCPDF. Real2013corrigendum corrects efficiency-marginalization Sec5; our genericpriorartclaim unaffected. Optional cite correction if expanding technicaldiscussion.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Dergachev2013",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Dergachev, Vladimir. 2013. “Novel universal statistic for computing upper limits in an ill-behaved background.” *Physical Review D* 87: 062001. <https://doi.org/10.1103/PhysRevD.87.062001>.",
+      "verified_primary_url": "https://arxiv.org/abs/1208.2007",
+      "web_ref": "turn292view1",
+      "supported_claim": "Robust upper limits without committing to one parametric noise family; supports denial of first distribution-robust claim.",
+      "metadata_note": "Published2013PRD87:062001 DOI verified; arxiv originally2012, lastrevision2013. Currentpublishedyear correct.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Dergachev2024",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Dergachev, Vladimir. 2024. “Efficient representations of upper limits and confidence intervals for experimental data.” *Physical Review D* 110: 085001. <https://doi.org/10.1103/PhysRevD.110.085001>.",
+      "verified_primary_url": "https://doi.org/10.1103/PhysRevD.110.085001",
+      "web_ref": "turn290view2",
+      "supported_claim": "Maximum representations can lose constraint strength; supports discussion of conservatism as prior knowledge.",
+      "metadata_note": "Author,title,year,PRD110:085001verified.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "LVKO4aBurst2025",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Abac, A. G., I. Abouelfettouh, F. Acernese, et al. 2025. “<span class=\"nocase\">All-sky search for short gravitational-wave bursts in the first part of the fourth LIGO-Virgo-KAGRA observing run</span>.” *Physical Review D* 112 (10): 102005. <https://doi.org/10.1103/wjdz-jdby>.",
+      "verified_primary_url": "https://journals.aps.org/prd/abstract/10.1103/wjdz-jdby",
+      "web_ref": "turn292view2",
+      "supported_claim": "O4a calibrated burst analysis, sensitivity and rate inference at a stated false-alarm operating point; does not calibrate our search.",
+      "metadata_note": "Actualpublishedprimarypaper; 2025PRD112:102005 metadata matches.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Abbott2010GRBAmplitude",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Abbott, B. P., R. Abbott, F. Acernese, et al. 2010. “Search for Gravitational-Wave Bursts Associated with Gamma-Ray Bursts Using Data from LIGO Science Run 5 and Virgo Science Run 1.” *The Astrophysical Journal* 715 (2): 1438–1452. <https://doi.org/10.1088/0004-637X/715/2/1438>.",
+      "verified_primary_url": "https://doi.org/10.1088/0004-637X/715/2/1438",
+      "web_ref": "turn297search36",
+      "supported_claim": "Signal-specific injection recovery and amplitude limits; supports distinction between conditional crossing curves and explicitly modeled inference.",
+      "metadata_note": "Publisherprimaryindexedfulltext verifies ApJ715:1438–1452,2010. Directfetch blocked; fullsearchtext states90% amplitude endpoint via detectionprobability.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "LVKO3Burst2021",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Abbott, R., T. D. Abbott, F. Acernese, et al. 2021. “<span class=\"nocase\">All-sky search for short gravitational-wave bursts in the third Advanced LIGO and Advanced Virgo run</span>.” *Physical Review D* 104 (12): 122004. <https://doi.org/10.1103/physrevd.104.122004>.",
+      "verified_primary_url": "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.122004",
+      "web_ref": "turn305view4",
+      "supported_claim": "O3 cWB burst analysis at stated false-alarm operating point; supports discovery/sensitivity comparator.",
+      "metadata_note": "Actualpublished23Dec2021PRD104:122004; firstauthorsR.Abbott,T.D.Abbott,F.Acernese verified.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "GWOSC2021",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Abbott, Rich, Thomas D. Abbott, Sheelu Abraham, et al. 2021. “<span class=\"nocase\">Open data from the first and second observing runs of Advanced LIGO and Advanced Virgo</span>.” *SoftwareX* 13: 100658. <https://doi.org/10.1016/j.softx.2021.100658>.",
+      "verified_primary_url": "https://arxiv.org/abs/1912.11716",
+      "web_ref": "turn313view1",
+      "supported_claim": "General publicstrain/DQ context for O1/O2; should not serve alone as source for O4specific release facts. CurrentO4release citations are also supplied.",
+      "metadata_note": "SoftwareX13(2021)100658 and DOI verified; initial2019preprint doesnotchangejournalyear.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Abramowicz2020",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Abramowicz, Marek, Michal Bejger, Eric Gourgoulhon, and Odele Straub. 2020. “<span class=\"nocase\">A Galactic centre gravitational-wave Messenger</span>.” *Scientific Reports* 10 (1): 7054. <https://doi.org/10.1038/s41598-020-63206-1>.",
+      "verified_primary_url": "https://arxiv.org/abs/1903.10698",
+      "web_ref": "turn310view1",
+      "supported_claim": "SgrA*Jupitermassorbitalbeacon millihertz/LISAthoughtmodel, not tested4s band. Published Eq2 includes3.55mHzprograde vs0.63/1.07retrograde/nonspinning.",
+      "metadata_note": "Published2020ScientificReports10:7054 DOI matches; authornames valid. PrimaryNatureindexedEq2 verified, directfetch blocked.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Cadonati2004",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Cadonati, L. 2004. “<span class=\"nocase\">Coherent waveform consistency test for LIGO burst candidates</span>.” *Classical and Quantum Gravity* 21 (20): S1695–1703. <https://doi.org/10.1088/0264-9381/21/20/012>.",
+      "verified_primary_url": "https://arxiv.org/abs/gr-qc/0407031",
+      "web_ref": "turn300view4",
+      "supported_claim": "Conditioned interdetector r-statistic over allowed time delays; not identical to our max-pair target/reference statistic.",
+      "metadata_note": "Existence,author,title,year,DOI verified. Endpage conflict: currentpublisher-stylemetadataS1703 vs arxivjournalrefS1704. Retain DOI and startpageS1695 or use publisherchosenmetadata; not nonexistent.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Clough2024",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Clough, Katy, Tim Dietrich, and Sebastian Khan. 2024. “<span class=\"nocase\">What no one has seen before: gravitational waveforms from warp drive collapse</span>.” *The Open Journal of Astrophysics* 7. <https://doi.org/10.33232/001c.121868>.",
+      "verified_primary_url": "https://astro.theoj.org/article/121868-what-no-one-has-seen-before-gravitational-waveforms-from-warp-drive-collapse/",
+      "web_ref": "turn302search0",
+      "supported_claim": "Specific subluminal warp-fluid collapse simulation. Sec3.1 usesR=1km=>300kHz; numericalwaveform not injected here.",
+      "metadata_note": "Primarypublisher25Jul2024OpenJournalAstrophysics7; authorsClough,Dietrich,Khan+DOI verified. Fullarxivv2 validates300kHzscale.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "GWOSCO4a2025",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Gravitational Wave Open Science Center. 2025. “The O4a Data Release.” <https://doi.org/10.7935/kt51-6n86>.",
+      "verified_primary_url": "https://gwosc.org/O4/O4a/",
+      "web_ref": "turn295view3",
+      "supported_claim": "O4a H1/L1, sample rates,releasechecksums,DQandhardwareinjections.",
+      "metadata_note": "Officialpagefirstrelease26Aug2025 DOIkt51-6n86 exactlymatches.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "GWOSCO4Technical",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "———. 2026a. “O4 Data Set Technical Details.” <https://gwosc.org/O4/o4_details/>.",
+      "verified_primary_url": "https://gwosc.org/O4/o4_details/",
+      "web_ref": "turn295view5",
+      "supported_claim": "4096Hzdata invalidnearNyquist;16384Hzfor~1700Hzandabove,DQlessstudiedabove2kHz;calibrationup5kHz.",
+      "metadata_note": "Officiallivepageexistsanddirectlysupportsclaim; publicationdateunconfirmed. Recommend n.d. withaccess1Nov2026 ratherthan2026inferredpublicationyear.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "GWOSCO4b2026",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "———. 2026b. “The O4b Data Release.” <https://doi.org/10.7935/8emv-ag54>.",
+      "verified_primary_url": "https://gwosc.org/O4/O4b/",
+      "web_ref": "turn295view4",
+      "supported_claim": "O4b H1/L1/V1,samplerates,checksums,DQandhardwareinjections.",
+      "metadata_note": "Officialpagefirstrelease26May2026 DOI8emv-ag54 exactlymatches. Iftechnicalentryusesn.d., use2026ratherthan2026b consistently.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "MADGRAV2026",
+      "exists": true,
+      "verification_status": "PRIMARY_SOURCE_VERIFIED",
+      "original_entry": "Inguglia, Gianluca, Huw Haigh, Ulyana Dupletsa, and Alessandro Longo. 2026. “<span class=\"nocase\">MADGRAV: a multilevel anomaly-detection pipeline for gravitational-wave searches applied to LIGO data</span>.” arXiv:2609.39583. <https://arxiv.org/html/2609.39583v2>.",
+      "verified_primary_url": "https://arxiv.org/abs/2609.39583",
+      "web_ref": "turn287view0",
+      "supported_claim": "Abstract explicitly states sequential anomaly/glitch/coherence/ranking CNN stages. Paper correctly cites stagedpipelinepriorart; doesnotclaimrerun.",
+      "metadata_note": "AuthorsInguglia,Haigh,Dupletsa,Longo; submitted30Sep2026,v2revised19Oct2026; comments submittedtoEPJC, notpublishedjournal. Currentpreprintstatus correct.",
+      "unsupported_scientific_claim_found": false
+    },
+    {
+      "id": "Klimenko2016",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.1103/PhysRevD.93.042004",
+      "primary_url": "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.042004",
+      "web_refs": [
+        "turn296view0"
+      ],
+      "current_entry": "Klimenko, S., G. Vedovato, M. Drago, et al. 2016. “<span class=\"nocase\">Method for detection and reconstruction of gravitational wave transients with networks of advanced detectors</span>.” *Physical Review D* 93 (4): 042004. <https://doi.org/10.1103/physrevd.93.042004>.",
+      "corrected_entry": "Klimenko, S., G. Vedovato, M. Drago, et al. 2016. “<span class=\"nocase\">Method for detection and reconstruction of gravitational wave transients with networks of advanced detectors</span>.” *Physical Review D* 93 (4): 042004. <https://doi.org/10.1103/physrevd.93.042004>.",
+      "claim_support": "Common network response/polarization reconstruction is explicitly supported by published abstract; does not establish our method equivalent to cWB.",
+      "access_or_scope_limit": "This pass opened primary published abstract; precise equation locators require the original PDF or should be omitted.",
+      "action": "retain"
+    },
+    {
+      "id": "Qiu2022",
+      "existence": "VERIFIED_PRIMARY_INDEXED_ABSTRACT",
+      "doi": null,
+      "primary_url": "https://arxiv.org/abs/2205.01682",
+      "web_refs": [
+        "turn294academia6"
+      ],
+      "current_entry": "Qiu, Yi, Ke Wang, and Jian-hua He. 2022. “<span class=\"nocase\">Amplitude modulation in binary gravitational lensing of gravitational waves</span>.” arXiv:2205.01682. <https://arxiv.org/abs/2205.01682>.",
+      "corrected_entry": "Qiu, Yi, Ke Wang, and Jian-hua He. 2022. “<span class=\"nocase\">Amplitude modulation in binary gravitational lensing of gravitational waves</span>.” arXiv:2205.01682. <https://arxiv.org/abs/2205.01682>.",
+      "claim_support": "Official arXiv-indexed abstract and metadata confirm Yi Qiu, Ke Wang, Jian-hua He, submitted3May2022; time-dependent binary-lens potential can modulate GW amplitude. Supports a natural modulation example, not a test of our short64–768Hz records.",
+      "access_or_scope_limit": "Direct page/HTML blocked. No published journal version was verified, so retain explicit arXiv preprint status.",
+      "action": "retain"
+    },
+    {
+      "id": "GWAK2024",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.1088/2632-2153/ad3a31",
+      "primary_url": "https://doi.org/10.1088/2632-2153/ad3a31",
+      "web_refs": [
+        "turn291search1",
+        "turn289view1",
+        "turn299view3",
+        "turn304view0"
+      ],
+      "current_entry": "Raikman, Ryan, Eric A Moreno, Ekaterina Govorkova, et al. 2024. “<span class=\"nocase\">GWAK: gravitational-wave anomalous knowledge with recurrent autoencoders</span>.” *Machine Learning: Science and Technology* 5 (2): 025020. <https://doi.org/10.1088/2632-2153/ad3a31>.",
+      "corrected_entry": "Raikman, Ryan, Eric A Moreno, Ekaterina Govorkova, et al. 2024. “<span class=\"nocase\">GWAK: gravitational-wave anomalous knowledge with recurrent autoencoders</span>.” *Machine Learning: Science and Technology* 5 (2): 025020. <https://doi.org/10.1088/2632-2153/ad3a31>.",
+      "claim_support": "Primary publisher metadata confirms Ryan Raikman, E.A.Moreno,E.Govorkova,etal.,25April2024,MLST5(2)025020. Official arXiv fulltext§3.4–3.5 verifies reconstruction/frequency-correlation features and inverted-Livingston Pearson maximum over±40samples at4096Hz.",
+      "access_or_scope_limit": "Published appendixA.3 ablation appears in an indexed published-PDF copy but was not verified at accessible publisher fulltext; remove that optional clause/locator rather than imply arXivv1 contains it.",
+      "action": "retain"
+    },
+    {
+      "id": "CoAD2026",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.1103/zjbd-smrd",
+      "primary_url": "https://journals.aps.org/prd/abstract/10.1103/zjbd-smrd",
+      "web_refs": [
+        "turn289view4"
+      ],
+      "current_entry": "Ratner, Daniel. 2026. “<span class=\"nocase\">Template-free search for gravitational wave events using coincident anomaly detection</span>.” *Physical Review D* 113 (12): 122005. <https://doi.org/10.1103/zjbd-smrd>.",
+      "corrected_entry": "Ratner, Daniel. 2026. “<span class=\"nocase\">Template-free search for gravitational wave events using coincident anomaly detection</span>.” *Physical Review D* 113 (12): 122005. <https://doi.org/10.1103/zjbd-smrd>.",
+      "claim_support": "Daniel Ratner,PRD113122005,published12June2026. Abstract explicitly supports cross-detector coincidence training and signal recall at1/yearFAR. No published fulltextsectionlocators independently checked here.",
+      "access_or_scope_limit": null,
+      "action": "retain"
+    },
+    {
+      "id": "Sellers2022",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": null,
+      "primary_url": "https://arxiv.org/abs/2212.02065",
+      "web_refs": [
+        "turn289view2",
+        "turn299view0",
+        "turn304view3"
+      ],
+      "current_entry": "Sellers, Luke, Alexey Bobrick, Gianni Martire, Michael Andrews, and Manfred Paulini. 2022. “<span class=\"nocase\">Searching for Intelligent Life in Gravitational Wave Signals Part I: Present Capabilities and Future Horizons</span>.” arXiv:2212.02065. <https://arxiv.org/abs/2212.02065>.",
+      "corrected_entry": "Sellers, Luke, Alexey Bobrick, Gianni Martire, Michael Andrews, and Manfred Paulini. 2022. “<span class=\"nocase\">Searching for Intelligent Life in Gravitational Wave Signals Part I: Present Capabilities and Future Horizons</span>.” arXiv:2212.02065. <https://arxiv.org/abs/2212.02065>.",
+      "claim_support": "Exact title and Luke Sellers,Alexey Bobrick,Gianni Martire,Michael Andrews,Manfred Paulini verified;v2dated24December2022. Full§2.1Eq2.18 andAppendixA explicitly include exhaust contribution and momentum/kinetic-energy bookkeeping; their later constant-mass/no-exhaust sensitivity approximation is distinct from our Newtonian specialization.",
+      "access_or_scope_limit": "Author arXiv record says submittedtoMNRAS; no completed journal publication verified. Keep as preprint.",
+      "action": "retain"
+    },
+    {
+      "id": "Suazo2024",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.1093/mnras/stae1186",
+      "primary_url": "https://academic.oup.com/mnras/article/531/1/695/7665761",
+      "web_refs": [
+        "turn294search0",
+        "turn294search3"
+      ],
+      "current_entry": "Suazo, Matias, Erik Zackrisson, Priyatam K Mahto, Fabian Lundell, Carl Nettelblad, Andreas J Korn, Jason T Wright, and Suman Majumdar. 2024. “<span class=\"nocase\">Project Hephaistos – II. Dyson sphere candidates from Gaia DR3, 2MASS, and WISE</span>.” *Monthly Notices of the Royal Astronomical Society* 531 (1): 695–707. <https://doi.org/10.1093/mnras/stae1186>.",
+      "corrected_entry": "Suazo, Matías, Erik Zackrisson, Priyatam K. Mahto, Fabian Lundell, Carl Nettelblad, Andreas J. Korn, Jason T. Wright, and Suman Majumdar. 2024. “Project Hephaistos – II. Dyson sphere candidates from Gaia DR3, 2MASS, and WISE.” *Monthly Notices of the Royal Astronomical Society* 531 (1): 695–707. <https://doi.org/10.1093/mnras/stae1186>.",
+      "claim_support": "Publisher confirms title,all8authors,2024,MNRAS531(1)695–707. Fullpublishertext supports optical/NIR/MIR photometric Dyson-candidate search. Our1AU GW frequency is our illustrative Kepler calculation, not a frequency established by this reference.",
+      "access_or_scope_limit": null,
+      "action": "retain_corrected"
+    },
+    {
+      "id": "SuttonEnergy2013",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": null,
+      "primary_url": "https://arxiv.org/abs/1304.0210",
+      "web_refs": [
+        "turn293view3",
+        "turn299view2"
+      ],
+      "current_entry": "Sutton, Patrick J. 2013. “<span class=\"nocase\">A Rule of Thumb for the Detectability of Gravitational-Wave Bursts</span>.” arXiv:1304.0210. <https://arxiv.org/abs/1304.0210>.",
+      "corrected_entry": "Sutton, Patrick J. 2013. “<span class=\"nocase\">A Rule of Thumb for the Detectability of Gravitational-Wave Bursts</span>.” arXiv:1304.0210. <https://arxiv.org/abs/1304.0210>.",
+      "claim_support": "PatrickJ.Sutton2013 preprint verified. Full§2 Eq5 supports two-polarization flux c^3/(16πG)〈ḣ+²+ḣ×²〉. Our memory use is of this general flux only; finite-burst h_rss/range assumptions are explicitly not transported to permanent offset.",
+      "access_or_scope_limit": null,
+      "action": "retain"
+    },
+    {
+      "id": "Sutton2010",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.1088/1367-2630/12/5/053034",
+      "primary_url": "https://arxiv.org/abs/0908.3665",
+      "web_refs": [
+        "turn293view4",
+        "turn299view1",
+        "turn312view1"
+      ],
+      "current_entry": "Sutton, Patrick J, Gareth Jones, Shourov Chatterji, et al. 2010. “<span class=\"nocase\">X-Pipeline: an analysis package for autonomous gravitational-wave burst searches</span>.” *New Journal of Physics* 12 (5): 053034. <https://doi.org/10.1088/1367-2630/12/5/053034>.",
+      "corrected_entry": "Sutton, Patrick J, Gareth Jones, Shourov Chatterji, et al. 2010. “<span class=\"nocase\">X-Pipeline: an analysis package for autonomous gravitational-wave burst searches</span>.” *New Journal of Physics* 12 (5): 053034. <https://doi.org/10.1088/1367-2630/12/5/053034>.",
+      "claim_support": "PrimaryarXivv2 confirms authors,title,NJP12:053034(2010). Full§II verifies signal/null projections and coherent/incoherent energies plus role of glitch backgrounds;§III verifies automated calibration/injection/background workflows. Two-detector full-ranknull-dimension statement is elementary linear algebra consistent with responseprojection, not proof that XPipeline cannot perform two-detector consistency tests.",
+      "access_or_scope_limit": "Numbered equation locators differ across versions/renderings; cite section/topic unless verified in cited published PDF.",
+      "action": "retain"
+    },
+    {
+      "id": "LVKNoiseGuide2020",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.1088/1361-6382/ab685e",
+      "primary_url": "https://arxiv.org/abs/1908.11170",
+      "web_refs": [
+        "turn307view2",
+        "turn312view3",
+        "turn301search1"
+      ],
+      "current_entry": "B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration). 2020. “A guide to LIGO–Virgo detector noise and extraction of transient gravitational-wave signals.” Classical and Quantum Gravity 37: 055002. <https://doi.org/10.1088/1361-6382/ab685e>.",
+      "corrected_entry": "B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration). 2020. “A guide to LIGO–Virgo detector noise and extraction of transient gravitational-wave signals.” Classical and Quantum Gravity 37: 055002. <https://doi.org/10.1088/1361-6382/ab685e>.",
+      "claim_support": "PrimaryarXivv3 metadata confirms B.P.Abbottetal.,CQG37:055002(2020),DOI. Abstract/paper scope supports detector noise,glitch/nonstationarity alternatives and validation checks, not a specific cause of any of our candidates.",
+      "access_or_scope_limit": null,
+      "action": "retain"
+    },
+    {
+      "id": "Goetz2026Lines",
+      "existence": "VERIFIED_PRIMARY_INDEXED_ABSTRACT",
+      "doi": null,
+      "primary_url": "https://arxiv.org/abs/2606.05959",
+      "web_refs": [
+        "turn294academia7"
+      ],
+      "current_entry": "E. Goetz et al.. 2026. “Narrow spectral artifact investigation and mitigation in LIGO data from the fourth LIGO-Virgo-KAGRA observing run.” arXiv preprint v3; journal status not asserted. <https://arxiv.org/abs/2606.05959>.",
+      "corrected_entry": "Goetz, E., A. Neunzert, A. M. Knee, et al. 2026. “Narrow spectral artifact investigation and mitigation in LIGO data from the fourth LIGO-Virgo-KAGRA observing run.” arXiv:2606.05959. <https://arxiv.org/abs/2606.05959>.",
+      "claim_support": "Official arXiv-indexed record confirms title,E.Goetz,A.Neunzert,A.M.Knee,etal.,3June2026. Abstract directly supports narrow spectral artifacts as non-astrophysical noise degrading persistent narrowband searches.",
+      "access_or_scope_limit": "Direct page/HTML blocked. Do not assert journal publication or exact latest version; publication status remains preprint here.",
+      "action": "retain_corrected"
+    },
+    {
+      "id": "Riles2023CW",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.1007/s41114-023-00044-3",
+      "primary_url": "https://link.springer.com/article/10.1007/s41114-023-00044-3",
+      "web_refs": [
+        "turn298search0"
+      ],
+      "current_entry": "Keith Riles. 2023. “Searches for continuous-wave gravitational radiation.” Living Reviews in Relativity 26: 3. <https://doi.org/10.1007/s41114-023-00044-3>.",
+      "corrected_entry": "Keith Riles. 2023. “Searches for continuous-wave gravitational radiation.” Living Reviews in Relativity 26: 3. <https://doi.org/10.1007/s41114-023-00044-3>.",
+      "claim_support": "Primarypublisherfulltextconfirms KeithRiles,17April2023,LivingReviewsinRelativity26:3; supports long-lived near-monochromatic sources,neutron-star interpretation and long-span phase/Doppler analysis.",
+      "access_or_scope_limit": null,
+      "action": "retain"
+    },
+    {
+      "id": "LVKLensing2024",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": "10.3847/1538-4357/ad3e83",
+      "primary_url": "https://dcc.ligo.org/LIGO-P2200031-v8/public",
+      "web_refs": [
+        "turn301search2",
+        "turn307view3",
+        "turn303search7"
+      ],
+      "current_entry": "R. Abbott et al. (LIGO Scientific Collaboration, Virgo Collaboration and KAGRA Collaboration). 2024. “Search for gravitational-lensing signatures in the full third observing run of the LIGO–Virgo network.” The Astrophysical Journal 970: 191. <https://doi.org/10.3847/1538-4357/ad3e83>.",
+      "corrected_entry": "R. Abbott et al. (LIGO Scientific Collaboration, Virgo Collaboration and KAGRA Collaboration). 2024. “Search for gravitational-lensing signatures in the full third observing run of the LIGO–Virgo network.” The Astrophysical Journal 970: 191. <https://doi.org/10.3847/1538-4357/ad3e83>.",
+      "claim_support": "OfficialcollaborationDCCabstract/fullsource confirms repeatedstronglensingimages and frequency-dependent amplitude/phase distortions,with no significant lensing evidence. PublisherPDFincoauthorinstitutionrepository confirms ApJ970(2):191(2024),DOI.",
+      "access_or_scope_limit": "arXivrecord originally2023; bibliography correctly cites2024 journal version. Do not update its year to2023 merely from submissiondate.",
+      "action": "retain"
+    },
+    {
+      "id": "Bardes2022VICReg",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": null,
+      "primary_url": "https://arxiv.org/abs/2105.04906",
+      "web_refs": [
+        "turn296view4"
+      ],
+      "current_entry": "Bardes, Adrien, Jean Ponce, and Yann LeCun. 2022. “VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning.” International Conference on Learning Representations. <https://arxiv.org/abs/2105.04906>.",
+      "corrected_entry": "Bardes, Adrien, Jean Ponce, and Yann LeCun. 2022. “VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning.” International Conference on Learning Representations. <https://arxiv.org/abs/2105.04906>.",
+      "claim_support": "Primaryauthorrecord confirms AdrienBardes,JeanPonce,YannLeCun;v3Jan2022 andAcceptedICLR2022; abstract verifies variance/invariance/covariance regularization terms. This supports attribution of componentlosses,not claims about our particular model performance.",
+      "access_or_scope_limit": "OpenReview browser challenge; arXiv author record independently states conference acceptance.",
+      "action": "retain"
+    },
+    {
+      "id": "Loshchilov2019AdamW",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": null,
+      "primary_url": "https://arxiv.org/abs/1711.05101",
+      "web_refs": [
+        "turn296view5"
+      ],
+      "current_entry": "Loshchilov, Ilya, and Frank Hutter. 2019. “Decoupled Weight Decay Regularization.” International Conference on Learning Representations. <https://arxiv.org/abs/1711.05101>.",
+      "corrected_entry": "Loshchilov, Ilya, and Frank Hutter. 2019. “Decoupled Weight Decay Regularization.” International Conference on Learning Representations. <https://arxiv.org/abs/1711.05101>.",
+      "claim_support": "Primaryauthorrecord confirms IlyaLoshchilovandFrankHutter;v3Jan2019,publishedconferencepaperICLR2019. Abstract supports decoupledweightdecay/AdamW attribution; our chosenoptimizerhyperparameters are our experiment specification.",
+      "access_or_scope_limit": "OpenReview browser challenge; arXiv author record independently states publication.",
+      "action": "retain"
+    },
+    {
+      "id": "Paszke2019PyTorch",
+      "existence": "VERIFIED_PRIMARY",
+      "doi": null,
+      "primary_url": "https://papers.nips.cc/paper_files/paper/2019/hash/bdbca288fee7f92f2bfa9f7012727740-Abstract.html",
+      "web_refs": [
+        "turn301search4",
+        "turn296view6"
+      ],
+      "current_entry": "Paszke, Adam, Sam Gross, Francisco Massa, et al. 2019. “PyTorch: An Imperative Style, High-Performance Deep Learning Library.” Advances in Neural Information Processing Systems 32. <https://arxiv.org/abs/1912.01703>.",
+      "corrected_entry": "Paszke, Adam, Sam Gross, Francisco Massa, et al. 2019. “PyTorch: An Imperative Style, High-Performance Deep Learning Library.” Advances in Neural Information Processing Systems 32. <https://arxiv.org/abs/1912.01703>.",
+      "claim_support": "PrimaryNeurIPSproceedings confirms AdamPaszke,SamGross,FranciscoMassa,etal.,NeurIPS2019volume32. Softwareframeworkcitationvalid; paperdoesnotitselfvalidateourneuralexecutionorversions.",
+      "access_or_scope_limit": null,
+      "action": "retain"
+    }
+  ],
+  "duplicate_bibliography_removed": 11,
+  "missing_citations_in_final_text": 0,
+  "nonexistent_references_identified": 0,
+  "scope": "Existence, bibliographic metadata and the specific attributed statements; access limitations are retained in each source record."
+}

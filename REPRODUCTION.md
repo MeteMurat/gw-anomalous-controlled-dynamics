@@ -46,3 +46,19 @@ Their original relative layouts and input hashes remain inside the bundles.
 `RELEASE_CONTENTS.json` pins each complete bundle. Do not edit hash-pinned
 inputs merely to make a check pass. Dependencies are listed within each bundle;
 no launcher in this repository installs packages automatically.
+
+## Publication figures and PDF
+
+The complete release includes the self-contained `visualization/` directory.
+With the documented preinstalled numerical/plotting dependencies, run:
+
+```bash
+python visualization/RERENDER_CLEAN_FIGURES.py
+python manuscript/BUILD_PDF.py --source manuscript/manuscript.md --output manuscript/manuscript.pdf --build-dir build
+```
+
+The PDF build needs preinstalled Pandoc and XeLaTeX. Figure regeneration uses
+retained arrays and counts, never a new observation or inference. The current
+publication uses physical and statistical labels; unchanged historical bundles
+retain their original names so hash-bound numerical replay remains possible.
+The reference audit records the thirty real sources and attributed claim scope.
