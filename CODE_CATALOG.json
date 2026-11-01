@@ -1,0 +1,163 @@
+{
+  "schema": "GW_PUBLIC_SOURCE_CATALOG_V1",
+  "files": [
+    {
+      "path": "legacy_source/src/original_f2/f2_r5_balanced_temporal_retention_model.py",
+      "bytes": 11926,
+      "sha256": "E5DFA40E229F6B58E008FDDA45800C9BF570936265FA36300C4B06A21E9A423E",
+      "provenance": "Immutable legacy archive member src/original_f2/f2_r5_balanced_temporal_retention_model.py"
+    },
+    {
+      "path": "legacy_source/src/original_f2/f2_ssl_compute_bounded_r3_order_sensitive_v1.py",
+      "bytes": 11508,
+      "sha256": "141D2D4C648B6A660A07BD1AB08E33B366F487E606A69602600B92977A3AC049",
+      "provenance": "Immutable legacy archive member src/original_f2/f2_ssl_compute_bounded_r3_order_sensitive_v1.py"
+    },
+    {
+      "path": "legacy_source/src/original_f2/r2r1_pretraining_dry_run_repaired_FROZEN_COPY.py",
+      "bytes": 16145,
+      "sha256": "50FB5A4FCC3D2F496AAB80EAD3647305A377BAE4518865CFB27F8F19E58AE21E",
+      "provenance": "Immutable legacy archive member src/original_f2/r2r1_pretraining_dry_run_repaired_FROZEN_COPY.py"
+    },
+    {
+      "path": "legacy_source/src/original_f2/f2_g01_g05_evaluator_v1r2_g05_name_shadow_repair.py",
+      "bytes": 14199,
+      "sha256": "E8672CA35E56EBFB6865090AB99ABFE5A75DEE5DED42BDB3E27012E12EC20742",
+      "provenance": "Immutable legacy archive member src/original_f2/f2_g01_g05_evaluator_v1r2_g05_name_shadow_repair.py"
+    },
+    {
+      "path": "legacy_source/src/original_f2/f2_ssl_training_jit_v1r1_importlib_dataclass_repair.py",
+      "bytes": 15707,
+      "sha256": "0C03FA9A0C7ACF27F91BC52DFCC3C943DC20FE521E6FB03F0BCE85CFE07D0DF5",
+      "provenance": "Immutable legacy archive member src/original_f2/f2_ssl_training_jit_v1r1_importlib_dataclass_repair.py"
+    },
+    {
+      "path": "legacy_source/src/original_f2/f2_ssl_training_jit_v1r2_network_resilience_repair.py",
+      "bytes": 17055,
+      "sha256": "2398767D1585CFC0948514C8609BB23C3C28E538D394211DDBAA92D2D419C89C",
+      "provenance": "Immutable legacy archive member src/original_f2/f2_ssl_training_jit_v1r2_network_resilience_repair.py"
+    },
+    {
+      "path": "legacy_source/src/cpu_screen/CPU_FEATURES.py",
+      "bytes": 7455,
+      "sha256": "E5237BF196B662112365C579600984DF46997BC01D77F9BCFEF9BFF221D76DB7",
+      "provenance": "Immutable legacy archive member src/cpu_screen/CPU_FEATURES.py"
+    },
+    {
+      "path": "legacy_source/src/cpu_screen/ANALYZE_TABLE.py",
+      "bytes": 14180,
+      "sha256": "D7B78BD4A18D84E2BF876CCBC5A0C6EE71AD0B91B3789DFEF49B0B46D6CA1669",
+      "provenance": "Immutable legacy archive member src/cpu_screen/ANALYZE_TABLE.py"
+    },
+    {
+      "path": "legacy_source/src/cpu_screen/TEST_ENGINE.py",
+      "bytes": 8711,
+      "sha256": "189FF76010C1549A088BA4D2E689CAA8BDEE392A13398CF5AACE1054DD59618F",
+      "provenance": "Immutable legacy archive member src/cpu_screen/TEST_ENGINE.py"
+    },
+    {
+      "path": "legacy_source/src/physical/PHYSICAL_MODELS.py",
+      "bytes": 16579,
+      "sha256": "6AD6772D588D50CC973894CD2433E6F7CC595A947F24BA4C7F6CAC870B815069",
+      "provenance": "Immutable legacy archive member src/physical/PHYSICAL_MODELS.py"
+    },
+    {
+      "path": "legacy_source/scripts/EXPORT_PHYSICAL_SERIES.py",
+      "bytes": 3540,
+      "sha256": "31F23B828C0A91D562D03E86DF139A66747C744711241C089E6B16DD24904286",
+      "provenance": "Immutable legacy archive member scripts/EXPORT_PHYSICAL_SERIES.py"
+    },
+    {
+      "path": "legacy_source/reproduce.py",
+      "bytes": 32857,
+      "sha256": "6CB3849F0F180086BC62938401A51E7840A9C9C7F6E106AB089AA2A057B7D5A4",
+      "provenance": "Immutable legacy archive member reproduce.py"
+    },
+    {
+      "path": "legacy_source/docs/NEURAL_METHODS_SPECIFICATION.md",
+      "bytes": 17375,
+      "sha256": "2CD2ADB8EBFFF806CF48794672F5F03CB78A1D391D9DE17F7E85A8FE8962BA50",
+      "provenance": "Immutable legacy archive member docs/NEURAL_METHODS_SPECIFICATION.md"
+    },
+    {
+      "path": "legacy_source/docs/REPRODUCTION_LEVELS.md",
+      "bytes": 7634,
+      "sha256": "6A8F278253189ADCE776816909B2898A20D83CE27240CCED65DDF6B3B1EE3CC3",
+      "provenance": "Immutable legacy archive member docs/REPRODUCTION_LEVELS.md"
+    },
+    {
+      "path": "legacy_source/models/README.md",
+      "bytes": 1138,
+      "sha256": "93FDABAAFD73AED1B092E0ECE509C9EDDA276CD0AA4E10A25717230742E1F469",
+      "provenance": "Immutable legacy archive member models/README.md"
+    },
+    {
+      "path": "analysis/packet_bound.py",
+      "bytes": 21225,
+      "sha256": "DA89260ABE1CEAC774AB96B0EE9F950502AE5E483500D24CB6228EF8A920C23D",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "analysis/known_location_response.py",
+      "bytes": 3579,
+      "sha256": "0E852CB26F5394493E8BC984148801FD6E1EB5244AD52C6DB952B7695FB1B4B6",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "analysis/validate_phase_coverage.py",
+      "bytes": 4702,
+      "sha256": "72CB43958D92F0DBBD5181DA237845DB892D41C3C81472AD0E047F26E3154FAF",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "analysis/independent_numeric_check.py",
+      "bytes": 8976,
+      "sha256": "F482C454F1C38D821A0236A6B25A29310E570FDD33C31DA4E3A4D4094F822D24",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "analysis/variance_envelope.py",
+      "bytes": 10964,
+      "sha256": "B28386D2C8AE82402B346FEA578272499BB62837A3E22FAE83DB8D7AC296B9D3",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "analysis/replay_variance_envelope.py",
+      "bytes": 8048,
+      "sha256": "DE0EAA79C062ABF44943181032ACCF601562EC16C4F1970F25762067CD63F9BC",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "audits/recount_delay_curves.py",
+      "bytes": 9352,
+      "sha256": "4F430F3EE09976D05AE8E449EA6E66BD3186D6EE47649E5DF6252A7A94613E8B",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "audits/compare_retained_scores.py",
+      "bytes": 11443,
+      "sha256": "C29E003EC43242C71D16A92E73E20D9F111627E98A94BBB55357C87959971165",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    },
+    {
+      "path": "audits/phase_bound_tradeoff.py",
+      "bytes": 7607,
+      "sha256": "D26458C631F98D8AD9A006CDB66C46F02F7511B7B62F3E132AEBB64A8C145634",
+      "provenance": "Byte-exact verified scientific implementation; original relative layout retained inside its complete release bundle"
+    }
+  ],
+  "neural_checkpoints_in_legacy_bundle": [
+    {
+      "path": "models/SEED_20260919/best.pt",
+      "bytes": 21710310
+    },
+    {
+      "path": "models/SEED_20260920/best.pt",
+      "bytes": 21710310
+    },
+    {
+      "path": "models/SEED_20260921/best.pt",
+      "bytes": 21710310
+    }
+  ]
+}

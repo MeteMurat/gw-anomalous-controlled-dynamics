@@ -1,0 +1,23 @@
+{
+  "schema": "GW_PUBLIC_COMPLETE_BUNDLES_V1",
+  "bundles": [
+    {
+      "path": "bundles/legacy_complete.zip",
+      "source_name": "GW_TUM_KOD_SEKIL_HESAP_20261030.zip",
+      "bytes": 393376143,
+      "sha256": "37FA0890E3A1966A2A2E034F0B3F3E4A548B54E0E3DA680F9014FF7429258ED1"
+    },
+    {
+      "path": "bundles/fixed_packet_complete.zip",
+      "source_name": "GW_FAZ_KODLU_PAKET_SINIRI_20261101.zip",
+      "bytes": 36806118,
+      "sha256": "0404B5A7104795403D78A5400CC8A73D528155CB844D441662A134ECBAFCB997"
+    },
+    {
+      "path": "bundles/comparison_and_phase_audits.zip",
+      "source_name": "GW_KARSILASTIRMA_VE_YONTEM_DENETIMI_20261101.zip",
+      "bytes": 45809562,
+      "sha256": "3AB3F915CADE4FC26BE9194445A46E337B9E89279D8C7E583FAC8E5B7C64BD6E"
+    }
+  ]
+}
